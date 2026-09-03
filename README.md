@@ -21,7 +21,7 @@ I'm a B.Tech student at Vardhaman College of Engineering, Hyderabad. Alongside c
 - 🔭 Currently building things like **DoomGuard** and **MedicPal**
 - 🌱 Currently exploring **AI-assisted prototyping** with Google AI Studio & Gemini
 - 🎓 B.Tech Computer Science @ **Vardhaman College of Engineering (VCEH)**, 2025 – Present
-- 📫 Reach me at **[your.email@example.com]**
+- 📫 Reach me at **[rehanstudy4@gmail.com]**
 
 <br/>
 
