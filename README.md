@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A81B&height=150&section=header&animation=fadeIn" width="100%"/>
+
 <img src="assets/banner.png" alt="Mohammed Rehan Banner" width="100%" />
 
 <br/><br/>
@@ -21,7 +23,7 @@ I'm a B.Tech student at Vardhaman College of Engineering, Hyderabad. Alongside c
 - 🔭 Currently building things like **DoomGuard** and **MedicPal**
 - 🌱 Currently exploring **AI-assisted prototyping** with Google AI Studio & Gemini
 - 🎓 B.Tech Computer Science @ **Vardhaman College of Engineering (VCEH)**, 2025 – Present
-- 📫 Reach me at **[rehanstudy4@gmail.com]**
+- 📫 Reach me at **[your.email@example.com]**
 
 <br/>
 
@@ -59,19 +61,22 @@ I'm a B.Tech student at Vardhaman College of Engineering, Hyderabad. Alongside c
 <summary><b>🔗 Click to expand</b></summary>
 <br/>
 
-**[DoomGuard](https://github.com/DoesntMatterICare/AntiDoomScroller)** · Apr 2026
+**[DoomGuard](#)** · Apr 2026
 Chrome extension that detects and neutralizes doomscrolling behavior in real time, using behavioral signals to intervene.
 `Web Development` `Prompt Engineering`
 
-**[MedicPal](https://github.com/DoesntMatterICare/MedicPal)**
+**[MedicPal](#)**
 AI-assisted medical mobile app that helps elderly and dementia patients remember their medicines and manage their health. Built with teammates **Mohammed Abdur Rehman** and others.
 `Python` `TypeScript`
 
-**[Virtual Workshop Lab](https://github.com/DoesntMatterICare/workshop)**
+**[Virtual Workshop Lab](#)**
 Viva-prep tool — identify tools from silhouettes, simulate carpentry joints, and wire live circuits. Associated with Vardhaman College of Engineering.
 `UI Design` `Full-Stack Development`
 
 </details>
+
+> Replace the `#` links above with each project's actual GitHub repo URL.
+
 <br/>
 
 ### 📜 Certifications
@@ -84,7 +89,7 @@ Viva-prep tool — identify tools from silhouettes, simulate carpentry joints, a
 
 ### 📚 Publications
 
-**[Outer Space as a Refrigeration Medium for Quantum Computing Infrastructure](https://github.com/DoesntMatterICare/QuantumSpaceCooling)** — Independent Research, Apr 2026
+**[Outer Space as a Refrigeration Medium for Quantum Computing Infrastructure](#)** — Independent Research, Apr 2026
 An independent hypothesis proposing that permanently shadowed lunar craters and deep-space environments could serve as passive cooling for quantum computing infrastructure.
 
 <br/>
@@ -99,6 +104,22 @@ An independent hypothesis proposing that permanently shadowed lunar craters and 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoesntMatterICare&layout=compact&theme=dark&hide_border=true&title_color=F7A81B&bg_color=0d1117" width="48%" />
 
 </div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoesntMatterICare/DoesntMatterICare/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DoesntMatterICare/DoesntMatterICare/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DoesntMatterICare/DoesntMatterICare/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+> This goes live once the workflow (setup below) runs for the first time.
 
 <br/>
 
@@ -117,3 +138,5 @@ An independent hypothesis proposing that permanently shadowed lunar craters and 
 <div align="center">
 <sub>⭐ From <a href="https://github.com/DoesntMatterICare">DoesntMatterICare</a> — thanks for stopping by!</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A81B&height=120&section=footer&animation=fadeIn&reversed=true" width="100%"/>
