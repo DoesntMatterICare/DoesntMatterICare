@@ -73,11 +73,8 @@ AI-assisted medical mobile app that helps elderly and dementia patients remember
 Viva-prep tool — identify tools from silhouettes, simulate carpentry joints, and wire live circuits. Associated with Vardhaman College of Engineering.
 `UI Design` `Full-Stack Development`
 
-</details>
 
-> Replace the `#` links above with each project's actual GitHub repo URL.
 
-<br/>
 
 ### 📜 Certifications
 
@@ -117,11 +114,7 @@ An independent hypothesis proposing that permanently shadowed lunar craters and 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DoesntMatterICare/DoesntMatterICare/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
 
-> This goes live once the workflow (setup below) runs for the first time.
-
-<br/>
 
 ### 🤝 Connect With Me
 <div align="center">
