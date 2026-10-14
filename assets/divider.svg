@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 30" width="1000" height="30" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F5A524" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#F5A524"/>
+      <stop offset=".75" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="g" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M40 15H960" stroke="url(#ln)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 15H960" stroke="url(#ln)" stroke-width="6" opacity=".25" filter="url(#g)">
+    <animate attributeName="opacity" values=".1;.4;.1" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#fff" filter="url(#g)">
+    <animateMotion path="M40,15 H960" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3" fill="#F5A524" filter="url(#g)">
+    <animateMotion path="M960,15 H40" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(500 15)">
+    <rect x="-6" y="-6" width="12" height="12" fill="#0a0e1a" stroke="#F5A524" stroke-width="2" transform="rotate(45)">
+      <animateTransform attributeName="transform" type="rotate" values="45;405" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

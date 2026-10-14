@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Tech stack marquee: C++, Python, C, TypeScript, Git, GitHub, Google Gemini, AI Studio, IntelliJ IDEA, Replit, AutoCAD, HubSpot, prompt engineering, prototyping">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".1" stop-color="#fff"/>
+      <stop offset=".9" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="m"><rect width="1000" height="150" fill="url(#fade)"/></mask>
+
+    <g id="row1" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+      <g transform="translate(0 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#00599C" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#00599C"/><text x="85" y="29" fill="#e6edf3">C++</text></g>
+      <g transform="translate(164 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#3776AB" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#FFD43B"/><text x="85" y="29" fill="#e6edf3">Python</text></g>
+      <g transform="translate(328 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#A8B9CC" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#A8B9CC"/><text x="85" y="29" fill="#e6edf3">C</text></g>
+      <g transform="translate(492 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#3178C6" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#3178C6"/><text x="85" y="29" fill="#e6edf3">TypeScript</text></g>
+      <g transform="translate(656 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#F05032" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#F05032"/><text x="85" y="29" fill="#e6edf3">Git</text></g>
+      <g transform="translate(820 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#8b949e" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#e6edf3"/><text x="85" y="29" fill="#e6edf3">GitHub</text></g>
+      <g transform="translate(984 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#8E75B2" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#8E75B2"/><text x="85" y="29" fill="#e6edf3">Gemini</text></g>
+      <g transform="translate(1148 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#F5A524" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#F5A524"/><text x="85" y="29" fill="#e6edf3">Prompt Eng.</text></g>
+    </g>
+
+    <g id="row2" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+      <g transform="translate(0 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#4285F4" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#4285F4"/><text x="85" y="29" fill="#e6edf3">AI Studio</text></g>
+      <g transform="translate(164 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#fe315d" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#fe315d"/><text x="85" y="29" fill="#e6edf3">IntelliJ</text></g>
+      <g transform="translate(328 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#F26207" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#F26207"/><text x="85" y="29" fill="#e6edf3">Replit</text></g>
+      <g transform="translate(492 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#E51050" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#E51050"/><text x="85" y="29" fill="#e6edf3">AutoCAD</text></g>
+      <g transform="translate(656 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#FF7A59" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#FF7A59"/><text x="85" y="29" fill="#e6edf3">HubSpot</text></g>
+      <g transform="translate(820 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#22D3EE" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#22D3EE"/><text x="85" y="29" fill="#e6edf3">Prototyping</text></g>
+      <g transform="translate(984 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#A78BFA" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#A78BFA"/><text x="85" y="29" fill="#e6edf3">UI Design</text></g>
+      <g transform="translate(1148 0)"><rect width="150" height="46" rx="23" fill="#0f1626" stroke="#34d399" stroke-width="2"/><circle cx="24" cy="23" r="5" fill="#34d399"/><text x="85" y="29" fill="#e6edf3">Product Sense</text></g>
+    </g>
+  </defs>
+
+  <g mask="url(#m)">
+    <g transform="translate(0 20)">
+      <animateTransform attributeName="transform" type="translate" values="0 20;-1312 20" dur="32s" repeatCount="indefinite"/>
+      <use href="#row1" x="0"/>
+      <use href="#row1" x="1312"/>
+    </g>
+    <g transform="translate(-1312 84)">
+      <animateTransform attributeName="transform" type="translate" values="-1312 84;0 84" dur="36s" repeatCount="indefinite"/>
+      <use href="#row2" x="0"/>
+      <use href="#row2" x="1312"/>
+    </g>
+  </g>
+</svg>
