@@ -1,86 +1,37 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg"><img src="assets/title-light.svg" alt="Doesn&#x27;t matter, I care. Written, directed and shipped by Mohammed Rehan." width="100%"></picture>
 
-<img src="assets/hero.svg" alt="Mohammed Rehan. CSE undergrad, developer, product builder." width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/marquee-dark.svg"><img src="assets/marquee-light.svg" alt="Now showing: Static for Android. Coming soon: DrawFight story mode. In production: SDC platform." width="100%"></picture>
 
+<p align="center"><a href="https://rehan07portfolio.netlify.app"><b>Portfolio</b></a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://linkedin.com/in/mohammed-rehan-developer-"><b>LinkedIn</b></a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="mailto:rehanstudy4@gmail.com"><b>Email</b></a></p>
 
-<a href="https://rehan07portfolio.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=netlify&logoColor=3DDC97" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/mohammed-rehan-developer-"><img src="https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=3DDC97" alt="LinkedIn" /></a>
-<a href="mailto:rehanstudy4@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161b22?style=for-the-badge&logo=gmail&logoColor=3DDC97" alt="Email" /></a>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/scene-about-dark.svg"><img src="assets/scene-about-light.svg" alt="Scene 1. A CSE undergrad at Vardhaman College, VP of the Student Developers Club, who writes screenplays and makes music. Rehan: Doesn&#x27;t matter. I care." width="100%"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.svg"><img src="assets/h-work-light.svg" alt="The work" width="100%"></picture>
 
-<img src="assets/h-about.svg" alt="About" width="100%" />
+<a href="https://github.com/DoesntMatterICare/AntiDoomScroller"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sc-doomguard-dark.svg"><img src="assets/sc-doomguard-light.svg" alt="DOOMGUARD: A thumb keeps scrolling. Something notices the loop and steps in." width="50%"></picture></a><a href="https://github.com/DoesntMatterICare/Static"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sc-static-dark.svg"><img src="assets/sc-static-light.svg" alt="STATIC: Songs play. It learns how you listen, and tells no one." width="50%"></picture></a>
 
-I'm a B.Tech Computer Science student at Vardhaman College of Engineering, Hyderabad. Alongside coursework, I build working products that blend product thinking, hands-on development, and AI-assisted prototyping.
-> status     B.Tech CSE · VCEH · 2025 – present
-> building   DoomGuard, MedicPal
-> exploring  Google AI Studio, Gemini
-> method     strategy first, code second
+<a href="https://github.com/DoesntMatterICare/ScribFight"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sc-drawfight-dark.svg"><img src="assets/sc-drawfight-light.svg" alt="DRAWFIGHT: Two players, peer to peer. One stroke of ink becomes a sword." width="50%"></picture></a><a href="https://github.com/DoesntMatterICare/MedicPal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sc-medicpal-dark.svg"><img src="assets/sc-medicpal-light.svg" alt="MEDICPAL: A gentle chime. The right pill, the right day, for people who forget." width="50%"></picture></a>
 
-<img src="assets/h-work.svg" alt="Selected Work" width="100%" />
+<a href="https://github.com/DoesntMatterICare/workshop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sc-workshop-dark.svg"><img src="assets/sc-workshop-light.svg" alt="VIRTUAL WORKSHOP LAB: Tools in silhouette. Wires go live. Nobody panics." width="50%"></picture></a><a href="https://github.com/DoesntMatterICare/student-developer-club-social-vce"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sc-sdc-dark.svg"><img src="assets/sc-sdc-light.svg" alt="SDC PLATFORM: A club gets a home: events, members, rooms to build in." width="50%"></picture></a>
 
-<a href="https://github.com/DoesntMatterICare/AntiDoomScroller">
-  <img src="assets/card-doomguard.svg" alt="DoomGuard: a Chrome extension that detects doomscrolling patterns and intervenes in real time. April 2026." width="100%" />
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-cast-dark.svg"><img src="assets/h-cast-light.svg" alt="Cast and crew" width="100%"></picture>
 
-<a href="https://github.com/DoesntMatterICare/MedicPal">
-  <img src="assets/card-medicpal.svg" alt="MedicPal: an AI-assisted medicine reminder app for older adults and people with dementia. Team project." width="100%" />
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cast-dark.svg"><img src="assets/cast-light.svg" alt="Cast: C++, Python, C, TypeScript, Kotlin, Jetpack Compose. Crew: React, Next.js, Phaser, Three.js, Git, Gemini, AI Studio, Linux, LaTeX, Framer." width="100%"></picture>
 
-<a href="https://github.com/DoesntMatterICare/workshop">
-  <img src="assets/card-workshop.svg" alt="Virtual Workshop Lab: a viva-prep tool for identifying workshop tools from silhouettes, exploring carpentry joints and wiring live circuits." width="100%" />
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-laurels-dark.svg"><img src="assets/h-laurels-light.svg" alt="Laurels" width="100%"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/laurels-dark.svg"><img src="assets/laurels-light.svg" alt="2nd place IEEE SSIT poster presentation. 96% BITS Pilani OS course. Google AI Studio certification. Scrimba Git and GitHub." width="100%"></picture>
 
-<img src="assets/h-stack.svg" alt="Stack" width="100%" />
+<p align="center"><sub>In development: <a href="https://github.com/DoesntMatterICare/QuantumSpaceCooling"><i>Outer Space as a Refrigeration Medium for Quantum Computing</i></a>, an independent research paper.</sub></p>
 
-<img src="assets/stack.svg" alt="Languages: C++, Python, C, TypeScript. AI and prototyping: Google Gemini, Google AI Studio, prompt engineering, AI fundamentals. Tools: Git, GitHub, IntelliJ IDEA, Replit, AutoCAD, HubSpot." width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-dailies-dark.svg"><img src="assets/h-dailies-light.svg" alt="Dailies" width="100%"></picture>
 
+<p align="center"><sub>Last 66 days of commits, re-rendered daily by a GitHub Action.</sub></p>
 
-<img src="assets/h-credentials.svg" alt="Credentials and Research" width="100%" />
+<a href="https://doesntmattericare.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dailies-dark.svg"><img src="assets/dailies-light.svg" alt="Open the interactive GitHub contribution terrain." width="100%"></picture></a>
 
-<details>
-  <summary><b>Certifications</b></summary>
-  <br />
+<p align="center"><a href="https://doesntmattericare.github.io/"><b>▶ Watch the full reel: interactive contribution terrain</b></a></p>
 
-Certification	Issuer	Date
-Develop AI-Powered Prototypes in Google AI Studio	Google	Aug 2026
-Learn Git and GitHub	Scrimba	Aug 2026
-Three more	See LinkedIn	
+<br />
 
-
-</details>
-
-<details>
-  <summary><b>Independent research</b></summary>
-  <br />
-
-  Outer Space as a Refrigeration Medium for Quantum Computing Infrastructure · Apr 2026
-
-  An independent hypothesis exploring permanently shadowed lunar craters and deep-space environments as passive cooling settings for quantum computing infrastructure.
-</details>
-
-
-<img src="assets/h-activity.svg" alt="GitHub Activity" width="100%" />
-
-<a href="https://doesntmattericare.github.io/">
-  <img src="assets/activity-terrain-preview.svg" alt="Open the interactive GitHub contribution terrain. Drag to rotate, switch between flat and terrain views, and inspect individual days." width="100%" />
-</a>
-
-<p align="center">
-  <a href="https://doesntmattericare.github.io/"><b>↗ OPEN INTERACTIVE ACTIVITY TERRAIN</b></a>
-</p>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DoesntMatterICare&show_icons=true&hide_border=false&bg_color=0b0f12&border_color=1c2328&title_color=3DDC97&icon_color=9fb3c8&text_color=c9d1d9" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoesntMatterICare&layout=compact&bg_color=0b0f12&border_color=1c2328&title_color=3DDC97&text_color=c9d1d9" alt="Most used languages" />
-
-
-
-
-<a href="mailto:rehanstudy4@gmail.com">
-  <img src="assets/footer.svg" alt="Let's build something. rehanstudy4@gmail.com" width="100%" />
-</a>
-
-</div>
+<a href="mailto:rehanstudy4@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ending-dark.svg"><img src="assets/ending-light.svg" alt="The end, struck out: to be continued, with you. rehanstudy4@gmail.com" width="100%"></picture></a>
