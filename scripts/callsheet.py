@@ -67,8 +67,8 @@ def build(mode):
     W, H = 1000, 462
     g = f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="4" fill="{c["card"] if mode == "dark" else c["pap"]}" stroke="{c["ln"]}" stroke-width="1.5"/>'
     # title block
-    g += f'<text x="24" y="40" fill="{c["ink"]}" class="b" font-size="22" letter-spacing="3">CALL SHEET</text>'
-    g += f'<text x="24" y="60" fill="{c["mut"]}" font-size="12">DMIC PRODUCTIONS · SHOOT DAY 1 OF ∞</text>'
+    g += f'<text x="24" y="40" fill="{c["ink"]}" class="b" font-size="20" letter-spacing="2">DOESN&#x27;T MATTER, I CARE</text>'
+    g += f'<text x="24" y="60" fill="{c["mut"]}" font-size="12">A DMIC PRODUCTION · SHOOT DAY 1 OF ∞</text>'
     g += f'<text x="976" y="40" text-anchor="end" fill="{c["mut"]}" font-size="12">UNIT BASE: HYDERABAD, INDIA</text>'
     g += f'<text x="976" y="60" text-anchor="end" fill="{c["red"]}" class="b" font-size="12">ALL DEPARTMENTS: ROLLING</text>'
     # scanning row highlight (behind rows)

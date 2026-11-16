@@ -116,7 +116,7 @@ def build_tickets(mode):
                "STAGE DOOR", "LINKEDIN", "/in/mohammed-rehan", "0002", False, False))
     out["email"] = svg(250, 150, "Admit one: email rehanstudy4@gmail.com",
         ticket(c, "e", 250, 150, 50, c["card"], c["ln"], c["ink"], "",
-               "BOX OFFICE", "EMAIL", "rehanstudy4@gmail", "0003", False, False))
+               "BOX OFFICE", "EMAIL", "rehanstudy4@gmail.com", "0003", False, False))
     return out
 
 

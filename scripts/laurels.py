@@ -36,7 +36,7 @@ def star(x, y, col, delay):
 
 
 def wreath(cx, cy, i, c, item):
-    R = 78
+    R = 90
     g = ""
     base = i * 0.22
     for side in (-1, 1):
@@ -60,20 +60,20 @@ def wreath(cx, cy, i, c, item):
                       f'fill="{col}" fill-opacity="{1 if col == c["red"] else .8}"/></g>')
     h, who, det = item
     g += (f'<g class="tx" style="animation-delay:{base:.2f}s">'
-          f'<text x="{cx}" y="{cy-6}" text-anchor="middle" fill="{c["ink"]}" class="b" font-size="18">{E(h)}</text>'
-          f'<text x="{cx}" y="{cy+18}" text-anchor="middle" fill="{c["red"]}" class="b" font-size="13">{E(who)}</text>'
-          f'<text x="{cx}" y="{cy+38}" text-anchor="middle" fill="{c["mut"]}" font-size="12">{E(det)}</text></g>')
-    g += star(cx - 48, cy - 62, c["red"], i * 0.9) + star(cx + 52, cy - 58, c["red"], i * 0.9 + 1.7)
+          f'<text x="{cx}" y="{cy-10}" text-anchor="middle" fill="{c["ink"]}" class="b" font-size="18">{E(h)}</text>'
+          f'<text x="{cx}" y="{cy+13}" text-anchor="middle" fill="{c["red"]}" class="b" font-size="13">{E(who)}</text>'
+          f'<text x="{cx}" y="{cy+32}" text-anchor="middle" fill="{c["mut"]}" font-size="11.5">{E(det)}</text></g>')
+    g += star(cx - 54, cy - 72, c["red"], i * 0.9) + star(cx + 58, cy - 68, c["red"], i * 0.9 + 1.7)
     return g
 
 
 def build(mode):
     c = THEMES[mode]
-    W, H = 1000, 430
+    W, H = 1000, 450
     g = ""
     for i, item in enumerate(LAURELS):
         row, col = divmod(i, 4)
-        g += wreath(125 + col * 250, 110 + row * 210, i, c, item)
+        g += wreath(125 + col * 250, 112 + row * 222, i, c, item)
     label = "Laurels: " + ". ".join(f"{h}, {w}, {d}" for h, w, d in LAURELS) + "."
     return svg(W, H, label, g, CSS)
 
